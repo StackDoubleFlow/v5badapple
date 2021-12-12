@@ -1,4 +1,4 @@
-# Bad Apple v5
+# V5 Bad Apple
 
 Bad Apple on a [VEX V5 Robot Brain](https://www.vexrobotics.com/276-4810.html). See it running here: https://www.youtube.com/watch?v=xfBEB0ympB4
 
